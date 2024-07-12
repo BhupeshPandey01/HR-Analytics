@@ -1,5 +1,4 @@
-HR-Analytics
-
+# HR-Analytics
 This HR Analytics dashboard provides insights into the presence, work-from-home (WFH), and sick leave (SL) patterns of employees. It uses sample data from a company to create various measures and visualizations that help in understanding employee attendance trends.
 
 Components of the Dashboard:
